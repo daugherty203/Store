@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  location: MyString
+  store_number: 1
+  website: MyString
+  boolean: MyString
+
+two:
+  name: MyString
+  location: MyString
+  store_number: 1
+  website: MyString
+  boolean: MyString
